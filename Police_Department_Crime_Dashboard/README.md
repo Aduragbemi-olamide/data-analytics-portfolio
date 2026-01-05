@@ -3,7 +3,7 @@
 ## Project Overview
 This project analyzes reported crime incidents to identify patterns, trends, and high-risk areas that can support data-driven policing and public safety decisions.
 
-The dashboard was developed using Power BI, with data preparation and cleaning performed in Excel.
+The dashboard was developed using Microsoft Excel, with data preparation and cleaning also performed in Excel.
 
 ---
 
@@ -15,35 +15,34 @@ The dashboard was developed using Power BI, with data preparation and cleaning p
 ---
 
 ## Tools Used
-- Power BI
 - Microsoft Excel
 
 ---
 
 ## Key Insights
-- Crime incidents are more frequent during weekday evening hours
-- A small number of crime types account for a large share of reported incidents
-- Residential areas experience higher crime frequency than other zones
-- Certain age groups are disproportionately affected
+- Crime incidents are heavily concentrated during weekday evening hours, particularly between late afternoon and night-time periods.
+- A small subset of crime categories accounts for a disproportionately large share of total reported incidents.
+- Residential neighborhoods experience higher crime frequency compared to commercial or industrial areas.
+- Certain demographic groups, particularly older and vulnerable populations, are more frequently affected by reported crimes.
+
 
 ---
 
 ## Recommendations
-- Deploy patrol resources strategically during peak crime hours
-- Implement seasonal crime-prevention plans rather than reactive responses
-- Increase protection for vulnerable population groups
-- Focus law enforcement efforts on high-frequency crime zones
-- Strengthen monitoring of high-impact crime categories
+- Implement time-targeted policing strategies by aligning patrol deployment with identified peak crime hours rather than uniform coverage.
+- Develop seasonal and periodic crime-prevention plans to proactively address anticipated spikes instead of reacting after incidents occur.
+- Increase protection and outreach initiatives for vulnerable demographic groups to reduce exposure and improve public safety outcomes.
+- Allocate law enforcement resources more efficiently by prioritizing high-frequency crime zones and residential hotspots.
+- Strengthen monitoring and enforcement efforts for high-impact crime categories that contribute most significantly to overall crime levels.
 
 ---
 
 ## Files
-- Police_Crime_Dashboard.pdf – Dashboard preview
-- Police_Crime_Dashboard.pbix – Power BI source file
-- Police_Crime_Data.xlsx – Dataset used for analysis
+- Police_Department_Crime_Dashboard.pdf – Dashboard preview
+- Police_Department_Crime_Dashboard.xlsx – Source file and dataset used for analysis
 
 ---
 
 ## Author
-**Aduragbemi (Tolulope Oluwabunmi)**  
-Data Analyst | Excel | Power BI
+**Aduragbemi Oluwabunmi**  
+Data Analyst | Excel |
