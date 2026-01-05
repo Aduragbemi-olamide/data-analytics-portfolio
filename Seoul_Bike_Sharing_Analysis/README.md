@@ -1,3 +1,5 @@
+![Dashboard Preview](dashboard_preview.png)
+
 # Seoul Bike Sharing Analysis (2017–2018)
 
 ## Project Overview
