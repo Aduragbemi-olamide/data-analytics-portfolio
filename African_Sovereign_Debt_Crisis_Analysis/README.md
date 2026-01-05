@@ -1,3 +1,5 @@
+![Dashboard Preview](dashboard_preview.png)
+
 # Unraveling Africa’s Sovereign Debt Crisis
 
 ## Project Overview
