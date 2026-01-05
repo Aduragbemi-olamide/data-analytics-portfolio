@@ -1,3 +1,5 @@
+![Dashboard Preview](dashboard_preview.png)
+
 # Family & Personal Finance Expense Dashboard
 
 ## Project Overview
