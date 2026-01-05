@@ -1,5 +1,3 @@
-[Dashboard Preview](dashboard_preview (2).png
-
 # Movie Performance Analysis Dashboard
 
 ## Project Overview
