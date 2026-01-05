@@ -1,5 +1,3 @@
-![Dashboard Preview](dashboard_preview.png)
-
 # Police Crime Analysis Dashboard
 
 ## Project Overview
