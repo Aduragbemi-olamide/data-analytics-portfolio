@@ -45,4 +45,4 @@ The dashboard was developed using Microsoft Excel, with data preparation and cle
 
 ## Author
 **Aduragbemi Oluwabunmi**  
-Data Analyst | Excel |
+Data Analyst
